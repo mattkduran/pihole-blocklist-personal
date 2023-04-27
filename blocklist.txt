@@ -1,7 +1,7 @@
 0.0.0.0. reddit.com
 0.0.0.0. imgur.com
 0.0.0.0. boingboing.com
-0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
 0.0.0.0 youtube-nocookie.com
 0.0.0.0 discord.com
 0.0.0.0 discordapp.com
