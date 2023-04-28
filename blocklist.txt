@@ -5,6 +5,6 @@
 0.0.0.0. imgur.com
 0.0.0.0. boingboing.net
 0.0.0.0 www.youtube.com
-0.0.0.0 youtube-nocookie.com
+0.0.0.0 www.youtube-nocookie.com
 0.0.0.0 discord.com
 0.0.0.0 discordapp.com
